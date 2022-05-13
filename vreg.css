@@ -1,0 +1,125 @@
+body{
+    background-image: url(https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg);
+    background-repeat: no-repeat;
+    background-position: 450px;
+    background-size: 65%;
+    background: #dde1e7;
+    display: grid;
+    place-items: center;
+
+
+}
+    
+    h2{
+      border-radius: 10px;
+      width: 300px;
+      height: 1px;
+      padding: 40px;
+      background-color: #dde1e7;
+      box-shadow: inset 2px 2px 5px #babecc, inset -5px -5px 10px #ffffff73;
+}
+
+#rect{color:#595959;
+    width:300px;
+    height:1px;
+    padding:40px;   
+    border-radius: 10px; 
+    background-color: #dde1e7;
+    box-shadow: inset 2px 2px 5px #babecc, inset -5px -5px 10px #ffffff73;
+
+}
+#last{
+width:300px;
+height:1px;
+padding: 40px;
+border-radius: 10px;
+background-color: #dde1e7;
+box-shadow: inset 2px 2px 5px #babecc, inset -5px -5px 10px #ffffff73;
+
+}
+
+#user{
+width:300px;
+height:1px;
+padding: 40px;
+background-color: #dde1e7;
+box-shadow: inset 2px 2px 5px #babecc, inset -5px -5px 10px #ffffff73;
+ }
+
+#pass{
+width:300px;
+height:1px;
+padding: 40px;
+background-color: #dde1e7;
+box-shadow: inset 2px 2px 5px #babecc, inset -5px -5px 10px #ffffff73;
+
+ }
+#si{
+width:300px;
+height:1px;
+padding: 40px;
+background-color: #dde1e7;
+box-shadow: inset 2px 2px 5px #babecc, inset -5px -5px 10px #ffffff73;
+
+}
+
+#DOB{
+width:300px;
+height:1px;
+padding: 40px;
+background-color: #dde1e7;
+box-shadow: inset 2px 2px 5px #babecc, inset -5px -5px 10px #ffffff73;
+
+ }
+#mail{
+width:300px;
+height:10px;
+padding: 40px;
+background-color: #dde1e7;
+box-shadow: inset 2px 2px 5px #babecc, inset -5px -5px 10px #ffffff73;
+
+}
+ #state{
+width:300px;
+height:40px;
+padding: 40px;
+background-color: #dde1e7;
+box-shadow: inset 2px 2px 5px #babecc, inset -5px -5px 10px #ffffff73;
+
+ }
+#nat{width:300px;
+height:40px;
+padding: 40px;
+background-color: #dde1e7;
+box-shadow: inset 2px 2px 5px #babecc, inset -5px -5px 10px #ffffff73;
+
+ }
+ #if{width:300px;
+height:40px;
+padding: 20px;
+background-color: #dde1e7;
+box-shadow: inset 2px 2px 5px #babecc, inset -5px -5px 10px #ffffff73;
+
+ }
+ #full{background:#dde1e7;
+    padding-top: 50px;
+    padding-left: 50PX;
+    border-radius: 20px;
+    width:500px;
+    box-shadow: -3px -3px 7px #ffffff73, 2px 2px 5px rgba(94, 104, 121, 0.288)
+}
+button{width:300px;
+height:40px;
+padding: 10px;
+background-color: #dde1e7;
+box-shadow: inset 2px 2px 5px #babecc, inset -5px -5px 10px #ffffff73;
+cursor: pointer;
+
+
+}
+#spa{padding: 20px;}
+
+#visit{padding-top: 100px;}
+
+footer{text-align: center;}
+
